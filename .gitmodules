@@ -1,0 +1,9 @@
+[submodule "agentiQ-backend"]
+	path = agentiQ-backend
+	url = git@github-unofficial:shreyy5/agentiQ-backend.git
+[submodule "agentiQ-frontend"]
+	path = agentiQ-frontend
+	url = git@github-unofficial:shreyy5/agentiQ-frontend.git
+[submodule "agentiQ-core"]
+	path = agentiQ-core
+	url = git@github-unofficial:shreyy5/agentiQ-core.git
